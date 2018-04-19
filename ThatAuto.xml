@@ -1,0 +1,458 @@
+<class>
+	<vehicle>
+		<Sedan id="210111">
+			<Value>ThatAutoSuperDuperSedanB</Value>
+			<Cost>11000.00</Cost>
+			<hatchback>
+				<Value>false</Value>
+				<Cost>0.00</Cost>
+			</hatchback>
+			<engine>
+				<Value>4</Value>
+				<Cost>500.00</Cost>
+			</engine>
+		</Sedan>
+		<Sedan id="210211">
+			<Value>ThatAutoSuperDuperSedanS</Value>
+			<Cost>15000.00</Cost>
+			<hatchback>
+				<Value>false</Value>
+				<Cost>0.00</Cost>
+			</hatchback>
+			<engine>
+				<Value>4</Value>
+				<Cost>500.00</Cost>
+			</engine>
+		</Sedan>
+		<Sedan id="210311">
+			<Value>ThatAutoSuperDuperSedanL</Value>
+			<Cost>18000.00</Cost>
+			<hatchback>
+				<Value>false</Value>
+				<Cost>0.00</Cost>
+			</hatchback>
+			<engine>
+				<Value>6</Value>
+				<Cost>1000.00</Cost>
+			</engine>
+		</Sedan>
+		<Sedan id="210411">
+			<Value>ThatAutoSuperDuperSedanLX</Value>
+			<Cost>20000.00</Cost>
+			<hatchback>
+				<Value>true</Value>
+				<Cost>3000.00</Cost>
+			</hatchback>
+			<engine>
+				<Value>4</Value>
+				<Cost>500.00</Cost>
+			</engine>
+		</Sedan>
+		<Sedan id="210511">
+			<Value>ThatAutoSuperDuperSedanP</Value>
+			<Cost>21000.00</Cost>
+			<hatchback>
+				<Value>true</Value>
+				<Cost>3000.00</Cost>
+			</hatchback>
+			<engine>
+				<Value>6</Value>
+				<Cost>1000.00</Cost>
+			</engine>
+		</Sedan>
+		<Coupe id="220111">
+			<Value>ThatAutoSuperDuperCoupeB</Value>
+			<Cost>20000.00</Cost>
+			<turbo>
+				<Value>false</Value>
+				<Cost>0.00</Cost>
+			</turbo>
+			<engine>
+				<Value>2.0</Value>
+				<Cost>500.00</Cost>
+			</engine>
+		</Coupe>
+		<Coupe id="220211">
+			<Value>ThatAutoSuperDuperCoupeS</Value>
+			<Cost>25000.00</Cost>
+			<turbo>
+				<Value>false</Value>
+				<Cost>0.00</Cost>
+			</turbo>
+			<engine>
+				<Value>3.2</Value>
+				<Cost>1000.00</Cost>
+			</engine>
+		</Coupe>
+		<Coupe id="220311">
+			<Value>ThatAutoSuperDuperCoupeSS</Value>
+			<Cost>28000.00</Cost>
+			<turbo>
+				<Value>true</Value>
+				<Cost>1000.00</Cost>
+			</turbo>
+			<engine>
+				<Value>2.0</Value>
+				<Cost>500.00</Cost>
+			</engine>
+		</Coupe>
+		<Coupe id="220411">
+			<Value>ThatAutoSuperDuperCoupeSSL</Value>
+			<Cost>30000.00</Cost>
+			<turbo>
+				<Value>true</Value>
+				<Cost>1000.00</Cost>
+			</turbo>
+			<engine>
+				<Value>3.2</Value>
+				<Cost>1000.00</Cost>
+			</engine>
+		</Coupe>
+		<Coupe id="220511">
+			<Value>ThatAutoSuperDuperCoupeSSP</Value>
+			<Cost>32000.00</Cost>
+			<turbo>
+				<Value>true</Value>
+				<Cost>1000.00</Cost>
+			</turbo>
+			<engine>
+				<Value>5.0</Value>
+				<Cost>5000.00</Cost>
+			</engine>
+		</Coupe>
+		<MiniVan id="230111">
+			<Value>ThatAutoSuperDuperMiniVanB</Value>
+			<Cost>20000.00</Cost>
+			<seats>
+				<Value>7</Value>
+				<Cost>500.00</Cost>
+			</seats>
+		</MiniVan>
+		<MiniVan id="230211">
+			<Value>ThatAutoSuperDuperMiniVanL</Value>
+			<Cost>21000.00</Cost>
+			<seats>
+				<Value>7</Value>
+				<Cost>500.00</Cost>
+			</seats>
+		</MiniVan>
+		<MiniVan id="230311">
+			<Value>ThatAutoSuperDuperMiniVanXL</Value>
+			<Cost>22000.00</Cost>
+			<seats>
+				<Value>8</Value>
+				<Cost>1000.00</Cost>
+			</seats>
+		</MiniVan>
+		<MiniVan id="230411">
+			<Value>ThatAutoSuperDuperMiniVanP</Value>
+			<Cost>23000.00</Cost>
+			<seats>
+				<Value>8</Value>
+				<Cost>1000.00</Cost>
+			</seats>
+		</MiniVan>
+		<MiniVan id="230511">
+			<Value>ThatAutoSuperDuperMiniVanH</Value>
+			<Cost>24000.00</Cost>
+			<seats>
+				<Value>8</Value>
+				<Cost>1000.00</Cost>
+			</seats>
+		</MiniVan>
+		<SUV id="240111">
+			<Value>ThatAutoSuperDuperSUVB</Value>
+			<Cost>31000.00</Cost>
+			<rows>
+				<Value>2</Value>
+				<Cost>500.00</Cost>
+			</rows>
+			<seats>
+				<Value>5</Value>
+				<Cost>500.00</Cost>
+			</seats>
+		</SUV>
+		<SUV id="240211">
+			<Value>ThatAutoSuperDuperSUVX</Value>
+			<Cost>32000.00</Cost>
+			<rows>
+				<Value>2</Value>
+				<Cost>500.00</Cost>
+			</rows>
+			<seats>
+				<Value>5</Value>
+				<Cost>500.00</Cost>
+			</seats>
+		</SUV>
+		<SUV id="240311">
+			<Value>ThatAutoSuperDuperSUVXL</Value>
+			<Cost>33000.00</Cost>
+			<rows>
+				<Value>3</Value>
+				<Cost>1500.00</Cost>
+			</rows>
+			<seats>
+				<Value>7</Value>
+				<Cost>1500.00</Cost>
+			</seats>
+		</SUV>
+		<SUV id="240411">
+			<Value>ThatAutoSuperDuperSUVSL</Value>
+			<Cost>34000.00</Cost>
+			<rows>
+				<Value>3</Value>
+				<Cost>1500.00</Cost>
+			</rows>
+			<seats>
+				<Value>8</Value>
+				<Cost>2000.00</Cost>
+			</seats>
+		</SUV>
+		<SUV id="240511">
+			<Value>ThatAutoSuperDuperSUVSXL</Value>
+			<Cost>35000.00</Cost>
+			<rows>
+				<Value>3</Value>
+				<Cost>1500.00</Cost>
+			</rows>
+			<seats>
+				<Value>8</Value>
+				<Cost>2000.00</Cost>
+			</seats>
+		</SUV>
+		<Truck id="250111">
+			<Value>ThatAutoSuperDuperTruckB</Value>
+			<Cost>22000.00</Cost>
+			<bedSize>
+				<Value>4</Value>
+				<Cost>500.00</Cost>
+			</bedSize>
+			<engine>
+				<Value>6</Value>
+				<Cost>1500.00</Cost>
+			</engine>
+		</Truck>
+		<Truck id="250211">
+			<Value>ThatAutoSuperDuperTruckX</Value>
+			<Cost>24000.00</Cost>
+			<bedSize>
+				<Value>6</Value>
+				<Cost>1500.00</Cost>
+			</bedSize>
+			<engine>
+				<Value>6</Value>
+				<Cost>1500.00</Cost>
+			</engine>
+		</Truck>
+		<Truck id="250311">
+			<Value>ThatAutoSuperDuperTruckXL</Value>
+			<Cost>28000.00</Cost>
+			<bedSize>
+				<Value>8</Value>
+				<Cost>2500.00</Cost>
+			</bedSize>
+			<engine>
+				<Value>6</Value>
+				<Cost>1500.00</Cost>
+			</engine>
+		</Truck>
+		<Truck id="250411">
+			<Value>ThatAutoSuperDuperTruckK</Value>
+			<Cost>30000.00</Cost>
+			<bedSize>
+				<Value>4</Value>
+				<Cost>500.00</Cost>
+			</bedSize>
+			<engine>
+				<Value>8</Value>
+				<Cost>2500.00</Cost>
+			</engine>
+		</Truck>
+		<Truck id="250511">
+			<Value>ThatAutoSuperDuperTruckT</Value>
+			<Cost>32000.00</Cost>
+			<bedSize>
+				<Value>6</Value>
+				<Cost>1500.00</Cost>
+			</bedSize>
+			<engine>
+				<Value>8</Value>
+				<Cost>2500.00</Cost>
+			</engine>
+		</Truck>
+	</vehicle>
+	<options>
+		<Exterior-Color id="1">
+			<Value>Blue</Value>
+			<Cost>3000.00</Cost>
+		</Exterior-Color>
+		<Exterior-Color id="2">
+			<Value>Red</Value>
+			<Cost>3000.00</Cost>
+		</Exterior-Color>
+		<Exterior-Color id="3">
+			<Value>Green</Value>
+			<Cost>3000.00</Cost>
+		</Exterior-Color>
+		<Exterior-Color id="4">
+			<Value>White</Value>
+			<Cost>3000.00</Cost>
+		</Exterior-Color>
+		<Exterior-Color id="5">
+			<Value>Black</Value>
+			<Cost>3000.00</Cost>
+		</Exterior-Color>
+		<Exterior-Color id="6">
+			<Value>Yellow</Value>
+			<Cost>3000.00</Cost>
+		</Exterior-Color>
+		<Exterior-Color id="7">
+			<Value>Orange</Value>
+			<Cost>3000.00</Cost>
+		</Exterior-Color>
+		<Exterior-Color id="8">
+			<Value>Gold</Value>
+			<Cost>3000.00</Cost>
+		</Exterior-Color>
+		<Exterior-Color id="9">
+			<Value>Purple</Value>
+			<Cost>3000.00</Cost>
+		</Exterior-Color>
+		<Interior-Color id="1">
+			<Value>Leather-Tan</Value>
+			<Cost>5000.00</Cost>
+		</Interior-Color>
+		<Interior-Color id="2">
+			<Value>Leather-Black</Value>
+			<Cost>5000.00</Cost>
+		</Interior-Color>
+		<Interior-Color id="3">
+			<Value>Leather-Red</Value>
+			<Cost>5000.00</Cost>
+		</Interior-Color>
+		<Interior-Color id="4">
+			<Value>Vinyl-Tan</Value>
+			<Cost>3000.00</Cost>
+		</Interior-Color>
+		<Interior-Color id="5">
+			<Value>Vinyl-Black</Value>
+			<Cost>3000.00</Cost>
+		</Interior-Color>
+		<Interior-Color id="6">
+			<Value>Vinyl-Red</Value>
+			<Cost>3000.00</Cost>
+		</Interior-Color>
+		<Interior-Color id="7">
+			<Value>Cloth-Tan</Value>
+			<Cost>1000.00</Cost>
+		</Interior-Color>
+		<Interior-Color id="8">
+			<Value>Cloth-Black</Value>
+			<Cost>1000.00</Cost>
+		</Interior-Color>
+		<Interior-Color id="9">
+			<Value>Cloth-Red</Value>
+			<Cost>1000.00</Cost>
+		</Interior-Color>
+		<Powertrain id="1">
+			<Value>Automatic</Value>
+			<Cost>7500.00</Cost>
+		</Powertrain>
+		<Powertrain id="2">
+			<Value>Manual</Value>
+			<Cost>5000.00</Cost>
+		</Powertrain>
+		<Seat id="1">
+			<Value>Multi-Point</Value>
+			<Cost>800.00</Cost>
+		</Seat>
+		<Seat id="2">
+			<Value>Heated</Value>
+			<Cost>1200.00</Cost>
+		</Seat>
+		<Seat id="3">
+			<Value>Air</Value>
+			<Cost>2000.00</Cost>
+		</Seat>
+		<Radio id="1">
+			<Value>AM/FM</Value>
+			<Cost>500.00</Cost>
+		</Radio>
+		<Radio id="2">
+			<Value>CD</Value>
+			<Cost>750.00</Cost>
+		</Radio>
+		<Radio id="3">
+			<Value>MP3</Value>
+			<Cost>850.00</Cost>
+		</Radio>
+		<Radio id="4">
+			<Value>Sirius/XM</Value>
+			<Cost>900.00</Cost>
+		</Radio>
+		<Radio id="5">
+			<Value>NAV</Value>
+			<Cost>3000.00</Cost>
+		</Radio>
+		<Tire id="1">
+			<Value>All-Weather</Value>
+			<Cost>500.00</Cost>
+		</Tire>
+		<Tire id="2">
+			<Value>Sports</Value>
+			<Cost>1100.00</Cost>
+		</Tire>
+		<Tire id="3">
+			<Value>Premium</Value>
+			<Cost>1500.00</Cost>
+		</Tire>
+		<Rim id="1">
+			<Value>18</Value>
+			<Cost>1100.00</Cost>
+		</Rim>
+		<Rim id="2">
+			<Value>19</Value>
+			<Cost>1200.00</Cost>
+		</Rim>
+		<Rim id="3">
+			<Value>20</Value>
+			<Cost>1300.00</Cost>
+		</Rim>
+		<Rim id="4">
+			<Value>22</Value>
+			<Cost>1400.00</Cost>
+		</Rim>
+		<Rim id="5">
+			<Value>26</Value>
+			<Cost>2000.00</Cost>
+		</Rim>
+		<Miscellaneous id="1">
+			<Miscellaneous id="1">
+				<Value>CrusieControl</Value>
+				<Cost>2500.00</Cost>
+			</Miscellaneous>
+			<Miscellaneous id="2">
+				<Value>AdaptiveCruiseControl</Value>
+				<Cost>5000.00</Cost>
+			</Miscellaneous>
+			<Miscellaneous id="3">
+				<Value>CruiseControl360</Value>
+				<Cost>10000.00</Cost>
+			</Miscellaneous>
+		</Miscellaneous>
+		<Miscellaneous id="2">
+			<Miscellaneous id="1">
+				<Value>MoonRoof</Value>
+				<Cost>3000.00</Cost>
+			</Miscellaneous>
+			<Miscellaneous id="2">
+				<Value>SunRoof</Value>
+				<Cost>5000.00</Cost>
+			</Miscellaneous>
+			<Miscellaneous id="3">
+				<Value>Panaramic</Value>
+				<Cost>8000.00</Cost>
+			</Miscellaneous>
+		</Miscellaneous>
+	</options>
+</class>
